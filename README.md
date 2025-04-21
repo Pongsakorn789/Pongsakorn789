@@ -97,7 +97,7 @@ I'm a passionate **Frontend & Web Developer** with a strong interest in creating
 ## Connect with Me
 - 📧 **Email**: [chaikittiporn.pong@gmail.com](mailto:chaikittiporn.pong@gmail.com)
 - 🌐 **GitHub**: [github.com/Pongsakorn789](https://github.com/Pongsakorn789)
-- 💼 **LinkedIn**: [linkedin.com/in/pongsakorn-chaikittiporn](www.linkedin.com/in/pongsakorn-chaikittiporn-602a8435a)
+- 💼 **LinkedIn**: [www.linkedin.com/in/pongsakorn-chaikittiporn-602a8435a](www.linkedin.com/in/pongsakorn-chaikittiporn-602a8435a)
 - 📸 **Portfolio**: [https://portfoliopongsakorn.web.app/]
 
 ---
