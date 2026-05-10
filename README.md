@@ -1,109 +1,92 @@
 # Hello! I'm Pongsakorn Chaikittiporn 👋
 
-I'm a passionate **Frontend & Web Developer** with a strong interest in creating user-friendly and visually appealing applications. I'm currently a second-year Software Engineering student at Mae Fah Luang University, eager to contribute to real-world projects and grow my skills.
+I'm a passionate **Software Engineer** specializing in **Full-Stack Development & AI Integration**. I'm currently an upcoming fourth-year Software Engineering student at Mae Fah Luang University, eager to build robust systems, solve complex problems, and contribute to impactful tech innovations.
 
 ---
 
-## About Me
-- 🎓 **Education**: Second-year Software Engineering student at Mae Fah Luang University (2023 - Present)
-- 💻 **Interests**: Web Design, Frontend Development, and UI/UX
-- 🚀 **Goal**: Gain hands-on experience through internships to improve my abilities, work on challenging projects, and pave the way for my future career in tech
-- 🌟 **Mindset**: I believe the best way to learn is through practical experience. I'm always ready to take on new challenges and grow in the field I'm passionate about.
+## 👨‍💻 About Me
+- 🎓 **Education**: Upcoming 4th-year Software Engineering student at Mae Fah Luang University (2023 - Present)
+- 💻 **Interests**: Full-Stack Web Development, Artificial Intelligence (Computer Vision), and UI/UX Design
+- 🚀 **Goal**: Leverage my skills in modern web technologies and AI to develop real-world applications and grow as a professional developer.
+- 🌟 **Mindset**: Hands-on experience is the best teacher. I am always ready to embrace new challenges and step out of my comfort zone.
 
 ---
 
-## Contact Information
-- 📧 **Email**: [chaikittiporn.pong@gmail.com](mailto:chaikittiporn.pong@gmail.com)
-- 📞 **Phone**: (+66) 99 364 7071
-- 📍 **Address**: 1931/44 Moo 4, Teparak 8, Mueang Samut Prakan, Samut Prakan 10270, Thailand
+## 💼 Experience
+
+### [cite_start]WHP GLOBAL SOLUTION SERVICE CO., LTD. [cite: 2, 10]
+- **Frontend Developer (Freelance)** | [cite_start]*August 2025 – Present* [cite: 45]
+  [cite_start]Continued as a freelance developer after the completion of my internship due to strong performance and client satisfaction[cite: 46]. [cite_start]Responsible for maintaining and improving frontend systems[cite: 47].
+- **Front end developer (Internship)** | [cite_start]*May 15, 2025 – July 31, 2025* [cite: 6]
+  Developed the frontend for the ThaiIoT Association website. [cite_start]Demonstrated a strong commitment to learning and efficiently executing assigned tasks[cite: 7].
 
 ---
 
-## Education
-- **2023 - Present**: Bachelor of Software Engineering, Mae Fah Luang University  
-  *Currently pursuing a degree in Software Engineering, focusing on software development, system design, and problem-solving skills.*
-- **2018 - 2022**: High School Diploma, Singhasamut School  
-  *Focused on Science and Mathematics, with a strong interest in Software and Computer Science.*
+## 🚀 Featured Projects
+
+### 🦷 AI-Implant ID (Senior Project)
+A full-stack AI web application utilizing **YOLOv8** to automatically detect and identify dental implant brands from X-ray images. It significantly reduces assessment time for dentists.
+- **Features**: Interactive bounding box viewer, measurement calibration tools, and automated PDF clinical report generation.
+- **Tech Stack**: React, Tailwind CSS, FastAPI, Node.js, MongoDB, YOLOv8
+- **Demo**: [ai-implantid.com](https://ai-implantid.com)
+
+### [cite_start]🚗 WanderWheels (2025) [cite: 53]
+[cite_start]A chauffeur-driven car rental booking platform built to help digitize and expand my family's car rental business[cite: 54]. [cite_start]It simplifies bookings while preserving personalized service[cite: 55].
+- **Tech Stack**: React, TypeScript, Firebase
+- **Links**: [Live Demo](https://wanderwheelsadmin.web.app/) | [Source Code](https://github.com/Pongsakorn789/Carrents.git)
+
+### ✈️ Pin & Plan (2025)
+[cite_start]A travel planning application using React Native[cite: 50]. [cite_start]The app allows users to create, manage, and share travel itineraries with ease[cite: 51].
+- **Tech Stack**: React Native, TypeScript, Firebase
+- **Links**: [Play Store](https://play.google.com/store/apps/details?id=com.aboutblank.pinnplan) | [Source Code](https://github.com/6631503017/pin-n-plan.git)
+
+### 🏢 ThaiIoT Association Website
+Developed the entire frontend during my internship at WHP GLOBAL SOLUTION.
+- **Tech Stack**: React, Bootstrap, JavaScript
+- **Demo**: [thaiiot.mr-stob.online](https://thaiiot.mr-stob.online/)
 
 ---
 
-## Experience
-### Personal Projects
-- **WanderWheels (2025)**  
-  A chauffeur-driven car rental platform developed to digitize and expand my family's car rental business. It simplifies bookings while preserving personalized service.  
-  **Tech Stack**: React, TypeScript, Firebase
+## 🛠️ Skills & Technologies
 
-- **Pin & Plan (In Development)**  
-  A travel planning application using React Native, allowing users to create, manage, and share travel itineraries with ease.  
-  **Tech Stack**: React Native, TypeScript, Firebase
+### Languages & Core
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### University Projects
-- **Dormitory Booking System (2024)**  
-  Developed a web-based dormitory booking system using Bootstrap, Java (Spring Boot), and Google Cloud. The system allows users to search, book, and manage dormitory reservations efficiently.  
-  **Tech Stack**: HTML, CSS, Bootstrap, Java (Spring Boot), Google Cloud, UX/UI
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-- **Flight Booking App - SkyRower (2024)**  
-  Designed a flight ticket booking app using Figma, focusing on user experience and interface design.  
-  **Tech Stack**: Figma, UX/UI
+### Backend, Database & AI
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=Google-vision&logoColor=black)
 
-
-
-
----
-
-## Skills
-### Software Skills
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-90%25-orange) ![JavaScript](https://img.shields.io/badge/JavaScript-75%25-yellow)  
-![React](https://img.shields.io/badge/React-70%25-cyan) ![TypeScript](https://img.shields.io/badge/TypeScript-60%25-blue)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-70%25-purple) ![SQL](https://img.shields.io/badge/SQL-60%25-green)  
-![Java](https://img.shields.io/badge/Java-Intermediate-blue) ![Python](https://img.shields.io/badge/Python-Intermediate-blue)  
-![Figma](https://img.shields.io/badge/Figma-Expert-pink) ![UX/UI](https://img.shields.io/badge/UX%2FUI-Expert-lightgrey)
-
-### Languages & Other Skills
-- **Thai**: Fluent
-- **English**: Intermediate
-- **Design Skills**: Figma, UX/UI Design
-- **Development Skills**: Frontend Development, Web Development
-- **Soft Skills**: Interpersonal Skills, Problem-Solving, Teamwork
+### Tools & Design
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## My Projects
-- **WanderWheels**  
-  A chauffeur-driven car rental platform for my family's business.  
-  **Tech**: React, TypeScript, Firebase  
-  [View Code](https://github.com/Pongsakorn789/Carrents.git)
-  [View Projects](https://wanderwheelsadmin.web.app/)
-  
-- **Pin & Plan**  
-  A travel planning app to create and share itineraries.  
-  **Tech**: React Native, TypeScript, Firebase  
-  [View Code](https://github.com/6631503017/pin-n-plan.git)
-  [View Projects](https://play.google.com/store/apps/details?id=com.aboutblank.pinnplan)
-  
-- **Himmapan (Dormitory Booking System)**  
-  A web app for managing dormitory bookings.  
-  **Tech**: HTML, CSS, Bootstrap, UX/UI  
-  [View Code](https://github.com/6631503017/Dormitory-Reservation-System.git)
-  [View Design](https://www.figma.com/proto/XgxWrmV1UQ0cFwaqQJWtG2/Chong-Ho?node-id=1-1184)
-
-- **SkyRower**  
-  A flight ticket booking app design.  
-  **Tech**: Figma, UX/UI  
-  [View Design](https://www.figma.com/proto/Gcld7PZgKuW8f3PJjf7lVY/Uxui-%2F-IT?node-id=522-540)
+## 📫 Connect with Me
+- [cite_start]📧 **Email**: [chaikittiporn.pong@gmail.com](mailto:chaikittiporn.pong@gmail.com) [cite: 18]
+- [cite_start]📞 **Phone**: (+66) 99 364 7071 [cite: 17]
+- 💼 **LinkedIn**: [Pongsakorn Chaikittiporn](https://www.linkedin.com/in/pongsakorn-chaikittiporn-602a8435a)
+- 📸 **Portfolio**: [https://portfoliopongsakorn.web.app/](https://portfoliopongsakorn.web.app/)
 
 ---
 
-## Connect with Me
-- 📧 **Email**: [chaikittiporn.pong@gmail.com](mailto:chaikittiporn.pong@gmail.com)
-- 🌐 **GitHub**: [github.com/Pongsakorn789](https://github.com/Pongsakorn789)
-- 💼 **LinkedIn**: [www.linkedin.com/in/pongsakorn-chaikittiporn-602a8435a](www.linkedin.com/in/pongsakorn-chaikittiporn-602a8435a)
-- 📸 **Portfolio**: [https://portfoliopongsakorn.web.app/]
-
----
-
-## Additional Information
-- **Age**: 19
-- **Hobbies**: Sport,Exploring new technologies, traveling, and UI/UX design
-- **Currently Learning**: Advanced React, Next.js, and Backend Development with Node.js
-- **Open to Opportunities**: Internships, Freelance Projects, and Collaborative Work
+## ⚡ Additional Information
+- **Age**: 20
+- [cite_start]**Location**: Samut Prakan, Thailand [cite: 19]
+- [cite_start]**Languages**: Thai (Fluent) [cite: 21][cite_start], English (Intermediate) [cite: 22]
+- **Hobbies**: Football, Basketball, Exploring new technologies, UI/UX design
+- **Currently Learning**: AI System Architecture, Advanced Backend Deployment (Nginx, PM2)
