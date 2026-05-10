@@ -14,11 +14,11 @@ I'm a passionate **Software Engineer** specializing in **Full-Stack Development 
 
 ## 💼 Experience
 
-### [cite_start]WHP GLOBAL SOLUTION SERVICE CO., LTD. [cite: 2, 10]
-- **Frontend Developer (Freelance)** | [cite_start]*August 2025 – Present* [cite: 45]
-  [cite_start]Continued as a freelance developer after the completion of my internship due to strong performance and client satisfaction[cite: 46]. [cite_start]Responsible for maintaining and improving frontend systems[cite: 47].
-- **Front end developer (Internship)** | [cite_start]*May 15, 2025 – July 31, 2025* [cite: 6]
-  Developed the frontend for the ThaiIoT Association website. [cite_start]Demonstrated a strong commitment to learning and efficiently executing assigned tasks[cite: 7].
+### WHP GLOBAL SOLUTION SERVICE CO., LTD.
+- **Frontend Developer (Freelance)** | *August 2025 – Present*
+  Continued as a freelance developer after the completion of my internship. Responsible for maintaining and improving the official company website and internal systems.
+- **Front end developer (Internship)** | *May 15, 2025 – July 31, 2025*
+  Developed and optimized the official **WHP Official Website** (https://whpgs.com/). Demonstrated a strong commitment to learning and efficiently executing assigned tasks.
 
 ---
 
@@ -40,10 +40,12 @@ A full-stack AI web application utilizing **YOLOv8** to automatically detect and
 - **Tech Stack**: React Native, TypeScript, Firebase
 - **Links**: [Play Store](https://play.google.com/store/apps/details?id=com.aboutblank.pinnplan) | [Source Code](https://github.com/6631503017/pin-n-plan.git)
 
-### 🏢 ThaiIoT Association Website
-Developed the entire frontend during my internship at WHP GLOBAL SOLUTION.
-- **Tech Stack**: React, Bootstrap, JavaScript
-- **Demo**: [thaiiot.mr-stob.online](https://thaiiot.mr-stob.online/)
+### 🏢 WHP Official Website
+Developed the official corporate website for WHP GLOBAL SOLUTION, focusing on responsive design and professional user experience.
+- **Tech Stack**: React, Bootstrap, JavaScript, UX/UI
+- **Link**: [whpgs.com](https://whpgs.com/)
+
+  
 
 ---
 
